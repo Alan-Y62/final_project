@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 81559e9f33b67e04c928fc2a0303dd2e
+timeCreated: 1572761641
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone 1
+    100004: Bone 2
+    100006: Bone.001
+    100008: Bone.001 1
+    100010: Bone.001 2
+    100012: Bone.001_end
+    100014: Bone.001_end 1
+    100016: Bone.001_end 2
+    100018: Bone.002
+    100020: Bone.002 1
+    100022: Bone.002 2
+    100024: Bone.003
+    100026: Bone.003 1
+    100028: Bone.003 2
+    100030: Bone.004
+    100032: Bone.004 1
+    100034: Bone.004 2
+    100036: Cylinder
+    100038: Cylinder.002
+    100040: Leg Bar
+    100042: Leg Bar Cable
+    100044: Leg Bar Cable.002
+    100046: Leg Bar Cable.003
+    100048: Leg Bar Cable.005
+    100050: Leg Bar Wheel 1
+    100052: Leg Bar Wheel 2
+    100054: Leg Bar Wheel 3
+    100056: //RootNode
+    100058: Multi Gym
+    100060: Multi Gym Bar
+    100062: Pull Up Cable
+    100064: Weight 1
+    100066: Weight 2
+    100068: Weight 3
+    100070: Weight 4
+    100072: Weight 5
+    100074: Weight 6
+    100076: Weight 7
+    100078: Weight 8
+    100080: Weight 9
+    100082: Weight Cable
+    100084: Weights Wheel 1
+    100086: Weights Wheel 2
+    400000: Bone
+    400002: Bone 1
+    400004: Bone 2
+    400006: Bone.001
+    400008: Bone.001 1
+    400010: Bone.001 2
+    400012: Bone.001_end
+    400014: Bone.001_end 1
+    400016: Bone.001_end 2
+    400018: Bone.002
+    400020: Bone.002 1
+    400022: Bone.002 2
+    400024: Bone.003
+    400026: Bone.003 1
+    400028: Bone.003 2
+    400030: Bone.004
+    400032: Bone.004 1
+    400034: Bone.004 2
+    400036: Cylinder
+    400038: Cylinder.002
+    400040: Leg Bar
+    400042: Leg Bar Cable
+    400044: Leg Bar Cable.002
+    400046: Leg Bar Cable.003
+    400048: Leg Bar Cable.005
+    400050: Leg Bar Wheel 1
+    400052: Leg Bar Wheel 2
+    400054: Leg Bar Wheel 3
+    400056: //RootNode
+    400058: Multi Gym
+    400060: Multi Gym Bar
+    400062: Pull Up Cable
+    400064: Weight 1
+    400066: Weight 2
+    400068: Weight 3
+    400070: Weight 4
+    400072: Weight 5
+    400074: Weight 6
+    400076: Weight 7
+    400078: Weight 8
+    400080: Weight 9
+    400082: Weight Cable
+    400084: Weights Wheel 1
+    400086: Weights Wheel 2
+    2300000: Cylinder
+    2300002: Cylinder.002
+    2300004: Leg Bar
+    2300006: Leg Bar Wheel 1
+    2300008: Leg Bar Wheel 2
+    2300010: Leg Bar Wheel 3
+    2300012: Multi Gym
+    2300014: Multi Gym Bar
+    2300016: Weight 1
+    2300018: Weight 2
+    2300020: Weight 3
+    2300022: Weight 4
+    2300024: Weight 5
+    2300026: Weight 6
+    2300028: Weight 7
+    2300030: Weight 8
+    2300032: Weight 9
+    2300034: Weights Wheel 1
+    2300036: Weights Wheel 2
+    3300000: Cylinder
+    3300002: Cylinder.002
+    3300004: Leg Bar
+    3300006: Leg Bar Wheel 1
+    3300008: Leg Bar Wheel 2
+    3300010: Leg Bar Wheel 3
+    3300012: Multi Gym
+    3300014: Multi Gym Bar
+    3300016: Weight 1
+    3300018: Weight 2
+    3300020: Weight 3
+    3300022: Weight 4
+    3300024: Weight 5
+    3300026: Weight 6
+    3300028: Weight 7
+    3300030: Weight 8
+    3300032: Weight 9
+    3300034: Weights Wheel 1
+    3300036: Weights Wheel 2
+    4300000: Multi Gym
+    4300002: Multi Gym Bar
+    4300004: Weights Wheel 2
+    4300006: Leg Bar Wheel 2
+    4300008: Leg Bar Wheel 3
+    4300010: Weight 9
+    4300012: Weight 8
+    4300014: Weight 7
+    4300016: Weight 6
+    4300018: Weight 5
+    4300020: Weight 4
+    4300022: Weight 3
+    4300024: Weight 2
+    4300026: Weight 1
+    4300028: Leg Bar
+    4300030: Leg Bar Wheel 1
+    4300032: Cylinder.002
+    4300034: Cylinder
+    4300036: Weights Wheel 1
+    4300038: Leg Bar Cable.005
+    4300040: Leg Bar Cable.003
+    4300042: Leg Bar Cable.002
+    9500000: //RootNode
+    13700000: Leg Bar Cable.002
+    13700002: Leg Bar Cable.003
+    13700004: Leg Bar Cable.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

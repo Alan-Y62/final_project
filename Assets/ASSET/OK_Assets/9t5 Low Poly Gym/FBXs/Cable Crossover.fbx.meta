@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: fc936b356670f954b9d962d38a9a8803
+timeCreated: 1572756629
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone 1
+    100004: Bone 2
+    100006: Bone 3
+    100008: Bone 4
+    100010: Bone 5
+    100012: Bone.001
+    100014: Bone.001 1
+    100016: Bone.001 2
+    100018: Bone.001 3
+    100020: Bone.001 4
+    100022: Bone.001 5
+    100024: Bone.001_end
+    100026: Bone.001_end 1
+    100028: Bone.001_end 2
+    100030: Bone.001_end 3
+    100032: Bone.001_end 4
+    100034: Bone.001_end 5
+    100036: Bone.002
+    100038: Bone.002 1
+    100040: Bone.002 2
+    100042: Bone.002 3
+    100044: Bone.003
+    100046: Bone.003 1
+    100048: Bone.003 2
+    100050: Bone.003 3
+    100052: Bone.004
+    100054: Bone.004 1
+    100056: Bone.004 2
+    100058: Bone.004 3
+    100060: Bone.005
+    100062: Bone.005 1
+    100064: Bone.005 2
+    100066: Bone.005 3
+    100068: Cable Crossover
+    100070: //RootNode
+    100072: Cable Left Weights
+    100074: Cable Right Weights
+    100076: Cable Weights 1
+    100078: Cable Weights 2
+    100080: Cable.001
+    100082: Cable.002
+    100084: Cylinder.002
+    100086: Cylinder.003
+    100088: Left Handle
+    100090: Left Handle Holder
+    100092: Left Weight Cable
+    100094: Left Wheel 1
+    100096: Left Wheel 2
+    100098: Left Wheel 3
+    100100: Left Wheel 4
+    100102: Left Wheel 4.001
+    100104: Left Wheel Cable
+    100106: Right Handle
+    100108: Right Handle Holder
+    100110: Right Weight Cable
+    100112: Right Wheel 1
+    100114: Right Wheel 2
+    100116: Right Wheel 3
+    100118: Right Wheel 4
+    100120: Right Wheel 4.001
+    100122: Right Wheel Cable
+    100124: Weight
+    100126: Weight.001
+    100128: Weight.002
+    100130: Weight.003
+    100132: Weight.004
+    100134: Weight.005
+    100136: Weight.006
+    100138: Weight.007
+    100140: Weight.008
+    100142: Weight.009
+    100144: Weight.010
+    100146: Weight.011
+    100148: Weight.012
+    100150: Weight.013
+    100152: Weight.014
+    100154: Weight.015
+    100156: Weight.016
+    100158: Weight.017
+    400000: Bone
+    400002: Bone 1
+    400004: Bone 2
+    400006: Bone 3
+    400008: Bone 4
+    400010: Bone 5
+    400012: Bone.001
+    400014: Bone.001 1
+    400016: Bone.001 2
+    400018: Bone.001 3
+    400020: Bone.001 4
+    400022: Bone.001 5
+    400024: Bone.001_end
+    400026: Bone.001_end 1
+    400028: Bone.001_end 2
+    400030: Bone.001_end 3
+    400032: Bone.001_end 4
+    400034: Bone.001_end 5
+    400036: Bone.002
+    400038: Bone.002 1
+    400040: Bone.002 2
+    400042: Bone.002 3
+    400044: Bone.003
+    400046: Bone.003 1
+    400048: Bone.003 2
+    400050: Bone.003 3
+    400052: Bone.004
+    400054: Bone.004 1
+    400056: Bone.004 2
+    400058: Bone.004 3
+    400060: Bone.005
+    400062: Bone.005 1
+    400064: Bone.005 2
+    400066: Bone.005 3
+    400068: //RootNode
+    400070: Cable Crossover
+    400072: Cable Left Weights
+    400074: Cable Right Weights
+    400076: Cable Weights 1
+    400078: Cable Weights 2
+    400080: Cable.001
+    400082: Cable.002
+    400084: Cylinder.002
+    400086: Cylinder.003
+    400088: Left Handle
+    400090: Left Handle Holder
+    400092: Left Weight Cable
+    400094: Left Wheel 1
+    400096: Left Wheel 2
+    400098: Left Wheel 3
+    400100: Left Wheel 4
+    400102: Left Wheel 4.001
+    400104: Left Wheel Cable
+    400106: Right Handle
+    400108: Right Handle Holder
+    400110: Right Weight Cable
+    400112: Right Wheel 1
+    400114: Right Wheel 2
+    400116: Right Wheel 3
+    400118: Right Wheel 4
+    400120: Right Wheel 4.001
+    400122: Right Wheel Cable
+    400124: Weight
+    400126: Weight.001
+    400128: Weight.002
+    400130: Weight.003
+    400132: Weight.004
+    400134: Weight.005
+    400136: Weight.006
+    400138: Weight.007
+    400140: Weight.008
+    400142: Weight.009
+    400144: Weight.010
+    400146: Weight.011
+    400148: Weight.012
+    400150: Weight.013
+    400152: Weight.014
+    400154: Weight.015
+    400156: Weight.016
+    400158: Weight.017
+    2300000: Cable Crossover
+    2300002: Left Handle
+    2300004: Left Handle Holder
+    2300006: Left Wheel 1
+    2300008: Left Wheel 2
+    2300010: Left Wheel 3
+    2300012: Left Wheel 4
+    2300014: Left Wheel 4.001
+    2300016: Right Handle
+    2300018: Right Handle Holder
+    2300020: Right Wheel 1
+    2300022: Right Wheel 2
+    2300024: Right Wheel 3
+    2300026: Right Wheel 4
+    2300028: Right Wheel 4.001
+    2300030: Weight
+    2300032: Weight.001
+    2300034: Weight.002
+    2300036: Weight.003
+    2300038: Weight.004
+    2300040: Weight.005
+    2300042: Weight.006
+    2300044: Weight.007
+    2300046: Weight.008
+    2300048: Weight.009
+    2300050: Weight.010
+    2300052: Weight.011
+    2300054: Weight.012
+    2300056: Weight.013
+    2300058: Weight.014
+    2300060: Weight.015
+    2300062: Weight.016
+    2300064: Weight.017
+    3300000: Cable Crossover
+    3300002: Left Handle
+    3300004: Left Handle Holder
+    3300006: Left Wheel 1
+    3300008: Left Wheel 2
+    3300010: Left Wheel 3
+    3300012: Left Wheel 4
+    3300014: Left Wheel 4.001
+    3300016: Right Handle
+    3300018: Right Handle Holder
+    3300020: Right Wheel 1
+    3300022: Right Wheel 2
+    3300024: Right Wheel 3
+    3300026: Right Wheel 4
+    3300028: Right Wheel 4.001
+    3300030: Weight
+    3300032: Weight.001
+    3300034: Weight.002
+    3300036: Weight.003
+    3300038: Weight.004
+    3300040: Weight.005
+    3300042: Weight.006
+    3300044: Weight.007
+    3300046: Weight.008
+    3300048: Weight.009
+    3300050: Weight.010
+    3300052: Weight.011
+    3300054: Weight.012
+    3300056: Weight.013
+    3300058: Weight.014
+    3300060: Weight.015
+    3300062: Weight.016
+    3300064: Weight.017
+    4300000: Cable Crossover
+    4300002: Cylinder.002
+    4300004: Cable Weights 2
+    4300006: Cable Weights 1
+    4300008: Cable.001
+    4300010: Cable.002
+    4300012: Weight.017
+    4300014: Weight.016
+    4300016: Weight.015
+    4300018: Weight.014
+    4300020: Weight.013
+    4300022: Weight.012
+    4300024: Weight.011
+    4300026: Weight.010
+    4300028: Weight.009
+    4300030: Weight.008
+    4300032: Weight.007
+    4300034: Weight.006
+    4300036: Weight.005
+    4300038: Weight.004
+    4300040: Weight.003
+    4300042: Weight.002
+    4300044: Weight.001
+    4300046: Weight
+    4300048: Right Handle Holder
+    4300050: Right Handle
+    4300052: Left Handle Holder
+    4300054: Left Handle
+    4300056: Left Wheel 4.001
+    4300058: Right Wheel 4.001
+    4300060: Right Wheel 4
+    4300062: Right Wheel 3
+    4300064: Right Wheel 2
+    4300066: Right Wheel 1
+    4300068: Left Wheel 1
+    4300070: Left Wheel 2
+    4300072: Left Wheel 3
+    4300074: Left Wheel 4
+    4300076: Cylinder.003
+    9500000: //RootNode
+    13700000: Cable Weights 1
+    13700002: Cable Weights 2
+    13700004: Cable.001
+    13700006: Cable.002
+    13700008: Cylinder.002
+    13700010: Cylinder.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
