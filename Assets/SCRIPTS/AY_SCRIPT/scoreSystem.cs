@@ -13,9 +13,9 @@ public class scoreSystem : MonoBehaviour
 
     private void Update()
     {
-        if(score < 10)
+        if(score < 3)
         {
-            scoreDisplay.GetComponent<Text>().text = "SCORE: " + score + "/10";
+            scoreDisplay.GetComponent<Text>().text = "SCORE: " + score + "/3";
         }
         else
         {

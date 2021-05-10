@@ -36,16 +36,16 @@ public class Auto_movement : MonoBehaviour
         //Code that actually moves the player/Camera forward
         if(moveForward)
         {
+            if (steps.isPlaying == false)
+            {
+                steps.volume = Random.Range(0.1f, 0.2f); //varies the volume
+                steps.pitch = Random.Range(0.8f, 1.1f); //varies the pitch
+                steps.Play();
+            }
             Vector3 forward = vrCamera.TransformDirection(Vector3.forward);
             cc.SimpleMove(forward * speed_);
         }
 
-        if (steps.isPlaying == false)
-        {
-            steps.volume = Random.Range(0.1f, 0.2f); //varies the volume
-            steps.pitch = Random.Range(0.8f, 1.1f); //varies the pitch
-            steps.Play();
-        }
     }
 
     private void OnTriggerEnter(Collider other)

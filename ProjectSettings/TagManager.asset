@@ -9,6 +9,11 @@ TagManager:
   - Trash
   - Gate
   - stickcheck
+  - collider
+  - fdisplay
+  - Scored
+  - destroy
+  - Reset
   layers:
   - Default
   - TransparentFX
