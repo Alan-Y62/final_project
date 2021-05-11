@@ -19,12 +19,16 @@ public class Movement_Script : MonoBehaviour
     public GameObject door;
     public AudioSource footstep;
 
+    public Text description;
+
     void Start()
     {
         cc = GetComponent<CharacterController>(); //don't know what this is really for but I assume it enables gyroscopic controls on devices
         speed_ = 10; //Movement speed, 10 is decent speed, 20 is like moving on a bike
 	count=0;
 	CountText();
+
+        description.text = "Find all 4 objects to advance to the next scene!";
     }
 
     void OnTriggerEnter(Collider other)
