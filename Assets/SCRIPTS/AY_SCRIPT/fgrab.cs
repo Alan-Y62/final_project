@@ -12,8 +12,7 @@ public class fgrab : MonoBehaviour
         GetComponent<Rigidbody>().Sleep();
         GetComponent<Rigidbody>().useGravity = false;
         transform.SetParent(d.transform.Find("Main Camera").transform);
-        transform.localPosition = new Vector3(1.48f, -1.43f, 5.56f);
-        transform.localRotation = new Quaternion(-85.912f, 14.364f, 81.972f,0f);
+        transform.localPosition = new Vector3(0f, -2f, 4f);
     }
 
     public void Fdrop()
